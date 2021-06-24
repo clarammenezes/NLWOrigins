@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://imgur.com/2RNWOfH" align="center" alt="Projeto Mobile" />
+ <img width="100px" src="https://pbs.twimg.com/media/E4rid9TXMAA8ZNU?format=jpg&name=small" align="center" alt="Projeto Mobile" />
  <h2 align="center">NLW Origins</h2>
  </p>
 
