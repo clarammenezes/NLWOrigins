@@ -643,6 +643,11 @@ footer .social a:hover {
     max-width: 25rem;
     align-items: center;
   }
+  
+  .title {
+    display: flex;
+    align-items: center;
+  }
 
   /* FOOTER */
 
